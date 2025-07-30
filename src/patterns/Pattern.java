@@ -1,4 +1,4 @@
-package src.patterns;
+package src.patterns.src.patterns;
 
 public class Pattern {
 
