@@ -1,7 +1,5 @@
 package src.patterns.src.maths;
 
-import src.patterns.src.patterns.Pattern;
-
 public class Maths {
 
     public static void main(String[] args) {
@@ -9,7 +7,7 @@ public class Maths {
         System.out.println(new Maths().isPerfect(6));
     }
 
-    // if number is perfect
+    // check if number is perfect
     public boolean isPerfect(int n) {
         if(n==1) return false;
         int divisor = 2;
